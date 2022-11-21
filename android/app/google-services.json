@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290909209098",
+    "project_id": "wappnet-practical-task",
+    "storage_bucket": "wappnet-practical-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290909209098:android:4d57ce199604e34264d5f3",
+        "android_client_info": {
+          "package_name": "com.example.wappnet_practical_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290909209098-22kolkoqbju26k1hldnu7dgoh1ulrom3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBNcrnbpYgSCaPYJFVoCDKZtgQ85hVH18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290909209098-22kolkoqbju26k1hldnu7dgoh1ulrom3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
